@@ -1,4 +1,4 @@
-# Importação das bibliotecas do opencv, é  obrigatória para utilizar suas funções.
+# Importação das bibliotecas do opencv, é obrigatória para poder utilizar suas funções.
 import cv2
 
 #Leitura da imagem com a função imread()
