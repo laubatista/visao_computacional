@@ -1,2 +1,2 @@
 # visao_computacional
-Algorítimos de visão computacional com Python e OpenCV. A visão computacional é o processo de modelagem e replicação, da visão humana usando software e hardware, e está sendo usada na vida cotidiana e nos negócios para conduzir todos os tipos de tarefas, incluindo identificar doenças médicas em raios-x, identificar produtos e onde comprá-los, anúncios dentro de imagens editoriais, entre outros.
+Algorítimos de visão computacional com Python e OpenCV. 
